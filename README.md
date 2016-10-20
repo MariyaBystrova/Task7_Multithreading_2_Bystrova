@@ -1,0 +1,2 @@
+# Task7_Multithreading_2_Bystrova
+Dining philosophers and Concurrent
